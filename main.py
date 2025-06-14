@@ -5,7 +5,7 @@ from livekit.agents import (
     WorkerOptions,
     cli,
 )
-from livekit.plugins import groq, silero,elevenlabs
+from livekit.plugins import groq, silero, elevenlabs
 
 from dotenv import load_dotenv
 
