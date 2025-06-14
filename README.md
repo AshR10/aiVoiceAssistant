@@ -20,8 +20,8 @@
 
   clone the repo
 
-  git clone https://github.com/AshR10/aiVoiceAssistant.git
-  cd aiVoiceAssistant
+    git clone https://github.com/AshR10/aiVoiceAssistant.git
+    cd aiVoiceAssistant
 
   create a virtual environment first to avoid conflicts
 
