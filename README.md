@@ -18,10 +18,16 @@
 
 # installations
 
+  clone the repo
+
+  git clone https://github.com/AshR10/aiVoiceAssistant.git
+  cd aiVoiceAssistant
+
   create a virtual environment first to avoid conflicts
 
     python -m venv .venv
-    .venv\Scripts\activate
+    .venv\Scripts\activate -> for windows
+    source .venv/bin/activate -> for unix systems
 
   install/upgrade pip
 
@@ -36,7 +42,7 @@
 
   run the main file via terminal
 
-    python3 main.py start OR python3 main.py dev
+    python3 main.py start
   
   on your web browser go to livekit playground : https://agents-playground.livekit.io/
   choose cloud and the project you created.
