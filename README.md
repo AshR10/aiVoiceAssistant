@@ -7,8 +7,11 @@
   If you dont have an account for any of these, sign up.
 
   livekit link : https://cloud.livekit.io/projects/p_43u0bzwb0as/settings/keys You have to create a project. API key,URL, and secret key can be found by creating a key from settings/keys
+
   livekit playground : https://agents-playground.livekit.io/ Choose cloud and the project you created.
+  
   groq : https://console.groq.com/home Press create key to create an api key.
+  
   elevenlabs : https://elevenlabs.io/app/home The api key can be found in audio tools/soundboard/api/api keys. For voice id go to voices/default voices click on 3 dots of any voice you find apt and copy the id.
 
   rename .sampleenv to .env and add keys 
