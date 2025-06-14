@@ -10,7 +10,7 @@
 
   livekit playground : https://agents-playground.livekit.io/ Choose cloud and the project you created.
   
-  groq : https://console.groq.com/home Press create key to create an api key.
+  groq : https://console.groq.com/home Click create key to create an api key.
   
   elevenlabs : https://elevenlabs.io/app/home The api key can be found in audio tools/soundboard/api/api keys. For voice id go to voices/default voices click on 3 dots of any voice you find apt and copy the id.
 
